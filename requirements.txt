@@ -1,0 +1,7 @@
+pandas
+emoji
+torch
+transformers
+SentencePiece
+tqdm
+scikit-learn
