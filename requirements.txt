@@ -5,3 +5,4 @@ transformers
 SentencePiece
 tqdm
 scikit-learn
+accelerate
