@@ -6,3 +6,7 @@ SentencePiece
 tqdm
 scikit-learn
 accelerate
+catboost
+interpret
+lightgbm
+xgboost
