@@ -1,0 +1,3 @@
+fit_intercept,Train r2,Val r2,Test r2,Train RMSE,Val RMSE,Test RMSE,Train MAPE,Val MAPE,Test MAPE,Time,Precedence
+0.0,-2.181093,-2.909094,-4.099418,0.514854,0.595443,0.618609,,,,0.02,0.0
+True,0.365964,-0.05416,-0.070638,0.229855,0.309211,0.28345,,,,0.0,1.0
