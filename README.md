@@ -3,14 +3,15 @@
 This project was undertaken by our student club's Data Science team and aims to analyse what contribute to good article publicity on our club's social media account, using advanced NLP techniques.
 
 ### Team members:
-- Lang (Ron) Chen: Project Lead and Experiment Design
+- [Lang (Ron) Chen](https://github.com/TGChenZP): Project Lead and Experiment Design 
 - Yuchen (Steven) Luo: Data cleaning and visualisation
-- Angqi (Devin) Meng: Data cleaning and Experiments
-- Ruonan (Selena) Xiong: Experiments
-- Mingqi Hao: Experiment Design
-- Mary Huang: Experiments
-- Melanie Huang: Experiments
-- Shan Lin: Experiment Design
+- [Angqi (Devin) Meng](https://github.com/DDDDDDDEVIN): Data cleaning and Experiments
+- [Ruonan (Selena) Xiong](https://github.com/ruonannn): Experiments
+- [Mingqi He](https://github.com/mq-he): Experiment Design
+- [Mary Huang](https://github.com/MaryHuang8): Experiments
+- [Melanie Huang](https://github.com/MelanieH7): Experiments
+- [Shan Lin](https://github.com/skylar9503): Experiment Design
+- [Zhuoya Zhou](https://github.com/ykforever0504): Experiment Design
 
 ## Themes:
 NLP, Transfer Learning, BERT, Machine Learning
